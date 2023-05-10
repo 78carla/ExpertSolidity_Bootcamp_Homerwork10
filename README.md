@@ -7,3 +7,5 @@ Assume that the denominator can never be zero.
 2.  assembly {
     result := div(numerator, demoninator)
     }
+
+The Gas Report are in the results folder.
